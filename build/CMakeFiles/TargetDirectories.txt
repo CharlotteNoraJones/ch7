@@ -1,0 +1,3 @@
+C:/Users/CharlotteJ/Documents/Projects/ch7/build/CMakeFiles/Notes.dir
+C:/Users/CharlotteJ/Documents/Projects/ch7/build/CMakeFiles/edit_cache.dir
+C:/Users/CharlotteJ/Documents/Projects/ch7/build/CMakeFiles/rebuild_cache.dir
